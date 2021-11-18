@@ -1,0 +1,30 @@
+.todoConteiner{
+  background-color: rgb(42, 157, 165);
+}
+
+.headerConteiner{
+  background-color: rgb(255, 80, 80);
+}
+
+.todoList{
+  background-color: crimson;
+}
+
+.todoItem{
+  background-color: crimson;
+}
+
+.navbar{
+  background-color: grey;
+}
+
+.textInput{
+  width:100%;
+  padding:10px;
+  border: 1px solid #dfdfdf;
+}
+
+.active-links{
+  color: orangered;
+  text-decoration: underline;
+}g
