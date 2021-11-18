@@ -1,4 +1,12 @@
-
+// import React from "react";
+// import '../App.css'
+// const todoList = () => {
+//     return(
+//     <div className="todoList">
+//         <h1>This is TodoList</h1>
+//     </div>
+//     )
+// }
 
 
 import React, { useState} from "react"
